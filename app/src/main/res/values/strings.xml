@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">MyNanodegreeCatalog</string>
+    <string name="app_title">My Nanodegree Apps!</string>
+    <string name="txt_spotify_streamer">spotify streamer</string>
+    <string name="txt_scores_app">scores app</string>
+    <string name="txt_library_app">library app</string>
+    <string name="txt_build_bigger">build it bigger</string>
+    <string name="txt_reader">xyz reader</string>
+    <string name="txt_my_own_app">my own app</string>
 </resources>
